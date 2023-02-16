@@ -1,0 +1,15 @@
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\bin\Debug\net7.0\Banco.exe
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\bin\Debug\net7.0\Banco.deps.json
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\bin\Debug\net7.0\Banco.dll
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\bin\Debug\net7.0\Banco.pdb
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.dll
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\refint\Banco.dll
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.pdb
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+C:\Users\Will\Desktop\SENAC\Meu\Banco\Banco\obj\Debug\net7.0\ref\Banco.dll
